@@ -1,7 +1,11 @@
 # Metaspot-framework-terumx
 MSF6 in Termux 
-```apt update && apt upgrade```/n
+```apt update && apt upgrade```
+
+
 ```pkg install git```
+
+
 ```pkg install curl```
 ```pkg install wget```
 ```pkg install proot```
