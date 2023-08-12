@@ -1,10 +1,10 @@
-# Metaspot-framework-terumx
+# Metasplit-framework-terumx
 
 <h4>Fix All Error in 2023</h4>
 <h3>Fix Error is game file install fild</h3>
 <h1>MSF6 in Termux</h1>
-<h4 style="color: red;">Follow Me In GitHub</h4>
-
+<h4>Follow Me In GitHub</h4>
+<h4>Follow The All comments And Install metasplit On Your Termux App</h4>
 
 ```apt update && apt upgrade```
 
@@ -57,7 +57,14 @@
 ```./childmrr.sh```
 
 
-if not work us this
+<h6>if not work us this</h6>
 
 
 ```bash childmrr.sh```
+
+<h3>if install metasplit-framework
+in your Termux App Just Type This Command.</h3>
+
+```msfconsole```
+
+<h1>Have A Good Day</h1>
