@@ -1,8 +1,9 @@
 # Metaspot-framework-terumx
 
 <h4>Fix All Error in 2023</h4>
-<h5>Fix Error is game file install field</h5>
+<h3>Fix Error is game file install fild</h3>
 <h1>MSF6 in Termux</h1>
+<h4 style="color: red;">Follow Me In GitHub</h4>
 
 
 ```apt update && apt upgrade```
